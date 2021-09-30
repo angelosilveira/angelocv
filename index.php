@@ -299,11 +299,33 @@
 												<div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 80%"
 													aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
+										</li>	
+										<li class="mb-2">
+											<div class="resume-skill-name">Next.js</div>
+											<div class="progress resume-progress">
+												<div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 80%"
+													aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+											</div>
+										</li>	
+										<li class="mb-2">
+											<div class="resume-skill-name">Typescript</div>
+											<div class="progress resume-progress">
+												<div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 60%"
+													aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+											</div>
 										</li>
 										<li class="mb-2">
 											<div class="resume-skill-name">React Native</div>
 											<div class="progress resume-progress">
 												<div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 60%"
+													aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+											</div>
+										</li>
+										
+										<li class="mb-2">
+											<div class="resume-skill-name">Angular</div>
+											<div class="progress resume-progress">
+												<div class="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 50%"
 													aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
 										</li>
@@ -357,6 +379,9 @@
 										<li class="list-inline-item"><span class="badge badge-light">Nuvemshop</span></li>
 										<li class="list-inline-item"><span class="badge badge-light">Mysql</span></li>
 										<li class="list-inline-item"><span class="badge badge-light">MongoDB</span></li>
+										<li class="list-inline-item"><span class="badge badge-light">Serveless</span></li>
+										<li class="list-inline-item"><span class="badge badge-light">Swagger API</span></li>
+										<li class="list-inline-item"><span class="badge badge-light">Webpack</span></li>
 									</ul>
 								</div>
 								<!--//resume-skill-item-->
