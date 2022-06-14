@@ -229,6 +229,7 @@
 												alguns clubes do brasil como:
 											</p>
 											<ul>
+												<li><a href="https://www.bjjstars.tv" target="_blank">https://www.bjjstars.tv</a></li>
 												<li><a href="https://www.fcbank.com.br" target="_blank">https://www.fcbank.com.br</a></li>
 												<li><a href="https://www.avaibank.com.br" target="_blank">https://www.avaibank.com.br</a></li>
 												<li><a href="https://www.londrinabank.com.br"
