@@ -395,6 +395,7 @@
 										<li class="list-inline-item"><span class="badge badge-light">Jest</span></li>
 										<li class="list-inline-item"><span class="badge badge-light">Cypress</span></li>
 										<li class="list-inline-item"><span class="badge badge-light">React hook form</span></li>
+										<li class="list-inline-item"><span class="badge badge-light">GraphQL</span></li>
 									</ul>
 								</div>
 								<!--//resume-skill-item-->
