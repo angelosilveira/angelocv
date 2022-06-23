@@ -255,6 +255,46 @@
 										<!--//resume-timeline-item-desc-->
 
 									</article>
+
+									<article class="resume-timeline-item position-relative pb-5">
+
+										<div class="resume-timeline-item-header mb-2">
+											<div class="d-flex flex-column flex-md-row">
+												<h3 class="resume-position-title font-weight-bold mb-1">Desenvolvedor Frontend</h3>
+												<div class="resume-company-name ml-auto">X-Sensors</div>
+											</div>
+											<!--//row-->
+											<div class="resume-position-time">Trabalhando para a empresa nesse momento - retornando em 2018</div>
+										</div>
+										<!--//resume-timeline-item-header-->
+										<div class="resume-timeline-item-desc">
+											<p>Empresa alemã voltada para criação de apps para indústrias usando inteligência artificial,
+												nesse período tive participação em alguns projetos privados e públicos como:</p>
+											<ul>
+												<li><a href="https://www.xsensors.de" target="_blank">https://www.xsensors.de</a></li>
+												<li><a href="https://www.xsensors.ai" target="_blank">https://www.xsensors.ai</a></li>
+												<li><a href="https://www.aindastudio.com.br" target="_blank">https://www.aindastudio.com.br</a>
+												</li>
+											</ul>
+											<h4 class="resume-timeline-item-desc-heading font-weight-bold">Tecnologias usada:</h4>
+											<ul class="list-inline">
+												<li class="list-inline-item"><span class="badge badge-primary badge-pill">HTML5</span></li>
+												<li class="list-inline-item"><span class="badge badge-primary badge-pill">CSS3</span></li>
+												<li class="list-inline-item"><span class="badge badge-primary badge-pill">JavaScript</span></li>
+												<li class="list-inline-item"><span class="badge badge-primary badge-pill">React</span></li>
+												<li class="list-inline-item"><span class="badge badge-primary badge-pill">React Native</span>
+												</li>
+												<li class="list-inline-item"><span class="badge badge-primary badge-pill">WordPress</span></li>
+												<li class="list-inline-item"><span class="badge badge-primary badge-pill">jQuery</span></li>
+												<li class="list-inline-item"><span class="badge badge-primary badge-pill">Meteor.js</span></li>
+												<li class="list-inline-item"><span class="badge badge-primary badge-pill">MongoDB</span></li>
+												<li class="list-inline-item"><span class="badge badge-primary badge-pill">Git</span></li>
+												</li>
+											</ul>
+										</div>
+										<!--//resume-timeline-item-desc-->
+
+									</article>
 									<!--//resume-timeline-item-->
 
 
