@@ -264,7 +264,7 @@
 												<div class="resume-company-name ml-auto">X-Sensors</div>
 											</div>
 											<!--//row-->
-											<div class="resume-position-time">Trabalhando para a empresa nesse momento - retornando em 2018</div>
+											<div class="resume-position-time">Trabalhando para a empresa nesse momento - retornei em 2018</div>
 										</div>
 										<!--//resume-timeline-item-header-->
 										<div class="resume-timeline-item-desc">
