@@ -55,9 +55,12 @@
 											class="fa-container text-center mr-2"><i
 												class="fab fa-github-alt fa-fw"></i></span>github.com/angelosilveira</a></li>
 
-								<li class="mb-3"><a href="https://www.facebook.com/angelo.patricio.94" targget="_blank"><span
+								<li class="mb-3"><a href="https://www.facebook.com/angelo.patricio.94" target="_blank"><span
 											class="fa-container text-center mr-2"><i class="fab fa-facebook fa-fw"
 												target="_blank"></i></span>angelo.patricio.94</a></li>
+								<li class="mb-3"><a href="https://www.linkedin.com/in/%C3%A2ngelo-silveira-05317a1b0/"
+										target="_blank"><span class="fa-container text-center mr-2"><i class="fab fa-linkedin fa-fw"
+												target="_blank"></i></span>angelo-silveira-05317a1b0</a></li>
 
 							</ul>
 						</div>
