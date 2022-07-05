@@ -179,7 +179,7 @@
 												<div class="resume-company-name ml-auto">Empreender</div>
 											</div>
 											<!--//row-->
-											<div class="resume-position-time">08/2019 - 08/2020</div>
+											<div class="resume-position-time">08/2018 - 12/2019</div>
 										</div>
 										<!--//resume-timeline-item-header-->
 										<div class="resume-timeline-item-desc">
