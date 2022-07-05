@@ -179,7 +179,7 @@
 												<div class="resume-company-name ml-auto">Empreender</div>
 											</div>
 											<!--//row-->
-											<div class="resume-position-time">2019 - 2020</div>
+											<div class="resume-position-time">08/2019 - 08/2020</div>
 										</div>
 										<!--//resume-timeline-item-header-->
 										<div class="resume-timeline-item-desc">
@@ -225,7 +225,6 @@
 												<div class="resume-company-name ml-auto">Futebolcard</div>
 											</div>
 											<!--//row-->
-											<div class="resume-position-time">2020</div>
 										</div>
 										<!--//resume-timeline-item-header-->
 										<div class="resume-timeline-item-desc">
@@ -270,7 +269,7 @@
 												<div class="resume-company-name ml-auto">X-Sensors</div>
 											</div>
 											<!--//row-->
-											<div class="resume-position-time">2020-2022</div>
+											<div class="resume-position-time">12/2020 - 2022</div>
 										</div>
 										<!--//resume-timeline-item-header-->
 										<div class="resume-timeline-item-desc">
